@@ -1,4 +1,4 @@
-# Roseate-Calculator
+## 🎀 Roseate Calculator
 A fully functional calculator app featuring a beautiful pink cherry blossom theme. Built with HTML, CSS, and JavaScript. Elegant design meets clean code for a smooth user experience. 🌸✨
 
 ## ✨ Features
@@ -15,3 +15,6 @@ A fully functional calculator app featuring a beautiful pink cherry blossom them
 1. Clone this repository:
    ```bash
    git clone [https://github.com/triv906/Roseate-Calculator.git](https://github.com/triv906/Roseate-Calculator.git)
+Screenshot :
+<img width="1600" height="911" alt="image" src="https://github.com/user-attachments/assets/2f670aec-34e1-403a-bf6d-bd78af50f9a6" />
+
