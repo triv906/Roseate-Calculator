@@ -1,8 +1,5 @@
 # Roseate-Calculator
 A fully functional calculator app featuring a beautiful pink cherry blossom theme. Built with HTML, CSS, and JavaScript. Elegant design meets clean code for a smooth user experience. 🌸✨
-# 🌸 Roseate Calculator
-
-A beautiful, aesthetic web-based calculator blending a serene pink cherry blossom design with smooth functionality. 
 
 ## ✨ Features
 * **Aesthetic Design:** Pastel pink interface featuring a custom cherry blossom background.
