@@ -16,5 +16,5 @@ A fully functional calculator app featuring a beautiful pink cherry blossom them
    ```bash
    git clone [https://github.com/triv906/Roseate-Calculator.git](https://github.com/triv906/Roseate-Calculator.git)
 Screenshot :
-<img width="1600" height="911" alt="image" src="https://github.com/user-attachments/assets/2f670aec-34e1-403a-bf6d-bd78af50f9a6" />
+<img width="1280" height="727" alt="image" src="https://github.com/user-attachments/assets/d5c6e4e2-ee54-4399-b021-24e95701a758" />
 
